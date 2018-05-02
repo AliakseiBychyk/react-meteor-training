@@ -1,0 +1,1 @@
+## Training project on React.js and MeteorJS
