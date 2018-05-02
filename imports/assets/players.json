@@ -1,0 +1,164 @@
+[
+  {
+    "_id": 1,
+    "name": "Aleks Bychyk",
+    "metrics": [
+      {
+        "ballManipulation": {
+          "text": "Ball manipulation",
+          "value": 2
+        }
+      },
+      {
+        "kickingAbilities": {
+          "text": "Kicking abilities",
+          "value": 3
+        }
+      },
+      {
+        "passingAbilities": {
+          "text": "Passing abilities",
+          "value": 1
+        }
+      },
+      {
+        "duelTackling": {
+          "text": "Duel/Tackling abilities",
+          "value": 1
+        }
+      },
+      {
+        "fieldCoverage": {
+          "text": "Field speed coverage",
+          "value": 3
+        }
+      },
+      {
+        "blockingAbilities": {
+          "text": "Blocking abilities",
+          "value": 2
+        }
+      },
+      {
+        "gameStrategy": {
+          "text": "Game Strategy",
+          "value": 3
+        }
+      },
+      {
+        "playmakingRisks": {
+          "text": "Playmaking risks",
+          "value": 2
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2,
+    "name": "Speedy Gonzales",
+    "metrics": [
+      {
+        "ballManipulation": {
+          "text": "Ball manipulation",
+          "value": 2
+        }
+      },
+      {
+        "kickingAbilities": {
+          "text": "Kicking abilities",
+          "value": 3
+        }
+      },
+      {
+        "passingAbilities": {
+          "text": "Passing abilities",
+          "value": 1
+        }
+      },
+      {
+        "duelTackling": {
+          "text": "Duel/Tackling abilities",
+          "value": 1
+        }
+      },
+      {
+        "fieldCoverage": {
+          "text": "Field speed coverage",
+          "value": 3
+        }
+      },
+      {
+        "blockingAbilities": {
+          "text": "Blocking abilities",
+          "value": 2
+        }
+      },
+      {
+        "gameStrategy": {
+          "text": "Game Strategy",
+          "value": 3
+        }
+      },
+      {
+        "playmakingRisks": {
+          "text": "Playmaking risks",
+          "value": 2
+        }
+      }
+    ]
+  },
+  {
+    "_id": 3,
+    "name": "Tracey Good",
+    "metrics": [
+      {
+        "ballManipulation": {
+          "text": "Ball manipulation",
+          "value": 2
+        }
+      },
+      {
+        "kickingAbilities": {
+          "text": "Kicking abilities",
+          "value": 3
+        }
+      },
+      {
+        "passingAbilities": {
+          "text": "Passing abilities",
+          "value": 1
+        }
+      },
+      {
+        "duelTackling": {
+          "text": "Duel/Tackling abilities",
+          "value": 1
+        }
+      },
+      {
+        "fieldCoverage": {
+          "text": "Field speed coverage",
+          "value": 3
+        }
+      },
+      {
+        "blockingAbilities": {
+          "text": "Blocking abilities",
+          "value": 2
+        }
+      },
+      {
+        "gameStrategy": {
+          "text": "Game Strategy",
+          "value": 3
+        }
+      },
+      {
+        "playmakingRisks": {
+          "text": "Playmaking risks",
+          "value": 2
+        }
+      }
+    ]
+  }
+]

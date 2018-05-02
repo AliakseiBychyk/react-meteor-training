@@ -3,9 +3,9 @@ import React, { Component } from 'react'
 class TeamStats extends Component {
   render() {
     return (
-      <h1>
+      <h2>
         Team Stats
-      </h1>
+      </h2>
     )
   }
 }
