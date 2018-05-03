@@ -1,0 +1,34 @@
+[
+  {
+    "metricName": "ballManipulation",
+    "metricText": "Ball manipulation"
+  },
+ {
+    "metricName": "kickingAbilities",
+    "metricText": "Kicking abilities"
+  },
+  {
+    "metricName": "passingAbilities",
+    "metricText": "Passing abilities"
+  },
+  {
+    "metricName": "duelTackling",
+    "metricText": "Duel/Tackling abilities"
+  },
+  {
+    "metricName": "fieldCoverage",
+    "metricText": "Field speed coverage"
+  },
+  {
+    "metricName": "blockingAbilities",
+    "metricText": "Blocking abilities"
+  },
+  {
+    "metricName": "gameStrategy",
+    "metricText": "Game strategy"
+  },
+  {
+    "metricName": "playmakingRisks",
+    "metricText": "Playmaking risks"
+  }
+]

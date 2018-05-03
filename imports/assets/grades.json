@@ -1,0 +1,18 @@
+[
+  {
+    "value": 0,
+    "text": "Hasn't demonstrated skills"
+  },
+  {
+    "value": 1,
+    "text": "Needs improvement"
+  },
+  {
+    "value": 2,
+    "text": "Skill acquired"
+  },
+  {
+    "value": 3,
+    "text": "Great skills/could teach"
+  }
+]
